@@ -1,0 +1,1122 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>4.26.0</SDKVersion>
+	<Host>Vectorworks</Host>
+	<Application Vendor="Vectorworks A NEMETSCHEK COMPANY" ProductName="Vectorworks" ProductVersion="26.0.3"/>
+	<ResourcePath></ResourcePath>
+	<User ID="e9887df84f88be64fb02b5ad7878a1a7" OS="Windows 10 (Release 2009)"/>
+	<StaticMesh name="Mesh4479005577213421891_3683257606469897152Sub0" label="Mesh4479005577213421891_3683257606469897152Sub0">
+		<file path="door_Assets/Mesh4479005577213421891_3683257606469897152Sub0.udsmesh"/>
+		<Size a="6419.741699" x="1.904999" y="274.320007" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e10163574490578c1802085d218a35ea"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh8082369609594596927_16643458530878434147Sub0" label="Mesh8082369609594596927_16643458530878434147Sub0">
+		<file path="door_Assets/Mesh8082369609594596927_16643458530878434147Sub0.udsmesh"/>
+		<Size a="6419.741699" x="1.904999" y="274.320007" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e10163574490578c1802085d218a35ea"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh8704602578825995270_1154856024668721503Sub0" label="Mesh8704602578825995270_1154856024668721503Sub0">
+		<file path="door_Assets/Mesh8704602578825995270_1154856024668721503Sub0.udsmesh"/>
+		<Size a="2783.601807" x="1.904999" y="118.109985" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="be5dd19cc0d9740ac1aa1ebbf3d91855"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh17940402959610001768_4703175386790574787Sub0" label="Mesh17940402959610001768_4703175386790574787Sub0">
+		<file path="door_Assets/Mesh17940402959610001768_4703175386790574787Sub0.udsmesh"/>
+		<Size a="2783.601807" x="1.904999" y="118.109985" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="be5dd19cc0d9740ac1aa1ebbf3d91855"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh15835490411119183743_13443210807188352829Sub0" label="Mesh15835490411119183743_13443210807188352829Sub0">
+		<file path="door_Assets/Mesh15835490411119183743_13443210807188352829Sub0.udsmesh"/>
+		<Size a="6331.052734" x="1.904999" y="270.51001" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="60e138aeb4bfd0caf0224bfcce0956f2"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh10299426932019544018_2602607501082167809Sub0" label="Mesh10299426932019544018_2602607501082167809Sub0">
+		<file path="door_Assets/Mesh10299426932019544018_2602607501082167809Sub0.udsmesh"/>
+		<Size a="6331.052734" x="1.904999" y="270.51001" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="60e138aeb4bfd0caf0224bfcce0956f2"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh3727115314059606084_14399516722107703164Sub0" label="Mesh3727115314059606084_14399516722107703164Sub0">
+		<file path="door_Assets/Mesh3727115314059606084_14399516722107703164Sub0.udsmesh"/>
+		<Size a="2192.939941" x="1.904999" y="92.732468" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="af8c3d363583a6eed7c18a15c5ac7c94"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh9671098583146122106_14258926731211005925Sub0" label="Mesh9671098583146122106_14258926731211005925Sub0">
+		<file path="door_Assets/Mesh9671098583146122106_14258926731211005925Sub0.udsmesh"/>
+		<Size a="2192.939941" x="1.904999" y="92.732468" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="af8c3d363583a6eed7c18a15c5ac7c94"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh13816379513823571984_2965018352750686229Sub0" label="Mesh13816379513823571984_2965018352750686229Sub0">
+		<file path="door_Assets/Mesh13816379513823571984_2965018352750686229Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh13627790544535591870_7079959659450609763Sub0" label="Mesh13627790544535591870_7079959659450609763Sub0">
+		<file path="door_Assets/Mesh13627790544535591870_7079959659450609763Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh3753177696863610898_5650246360079810135Sub0" label="Mesh3753177696863610898_5650246360079810135Sub0">
+		<file path="door_Assets/Mesh3753177696863610898_5650246360079810135Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh4769928893738294873_2605161282775706444Sub0" label="Mesh4769928893738294873_2605161282775706444Sub0">
+		<file path="door_Assets/Mesh4769928893738294873_2605161282775706444Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh6142848844409759784_5570323777986347045Sub0" label="Mesh6142848844409759784_5570323777986347045Sub0">
+		<file path="door_Assets/Mesh6142848844409759784_5570323777986347045Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh5967709353568118212_11938860790435408868Sub0" label="Mesh5967709353568118212_11938860790435408868Sub0">
+		<file path="door_Assets/Mesh5967709353568118212_11938860790435408868Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh9183415564334383935_3968153304884513238Sub0" label="Mesh9183415564334383935_3968153304884513238Sub0">
+		<file path="door_Assets/Mesh9183415564334383935_3968153304884513238Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh16390758572058128722_14327271584634415055Sub0" label="Mesh16390758572058128722_14327271584634415055Sub0">
+		<file path="door_Assets/Mesh16390758572058128722_14327271584634415055Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh1259631820588938274_14756871344427314951Sub0" label="Mesh1259631820588938274_14756871344427314951Sub0">
+		<file path="door_Assets/Mesh1259631820588938274_14756871344427314951Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh7706945408773828062_8812163607052776506Sub0" label="Mesh7706945408773828062_8812163607052776506Sub0">
+		<file path="door_Assets/Mesh7706945408773828062_8812163607052776506Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh15646773560313722557_6231973065628622264Sub0" label="Mesh15646773560313722557_6231973065628622264Sub0">
+		<file path="door_Assets/Mesh15646773560313722557_6231973065628622264Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh1912638782361990038_6648968868565498669Sub0" label="Mesh1912638782361990038_6648968868565498669Sub0">
+		<file path="door_Assets/Mesh1912638782361990038_6648968868565498669Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh10676863594155232754_3543179491781427916Sub0" label="Mesh10676863594155232754_3543179491781427916Sub0">
+		<file path="door_Assets/Mesh10676863594155232754_3543179491781427916Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh16083289972110799279_14829466920329481640Sub0" label="Mesh16083289972110799279_14829466920329481640Sub0">
+		<file path="door_Assets/Mesh16083289972110799279_14829466920329481640Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh487041942557145116_9989132043753107113Sub0" label="Mesh487041942557145116_9989132043753107113Sub0">
+		<file path="door_Assets/Mesh487041942557145116_9989132043753107113Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh15298489353325924090_1169895051388016104Sub0" label="Mesh15298489353325924090_1169895051388016104Sub0">
+		<file path="door_Assets/Mesh15298489353325924090_1169895051388016104Sub0.udsmesh"/>
+		<Size a="287.940186" x="1.904999" y="10.783768" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda1bb5988cb1739413999fdba5d1a1b"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh8494170724026859953_2024943773854794448Sub0" label="Mesh8494170724026859953_2024943773854794448Sub0">
+		<file path="door_Assets/Mesh8494170724026859953_2024943773854794448Sub0.udsmesh"/>
+		<Size a="34500.664063" x="121.919998" y="0.47625" z="274.319977"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8e307c2fc6aedd66bfe474a379fd3caa"/>
+		<Material id="1" name="Material_13041921_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh12052493039287141002_4043641661637875490Sub0" label="Mesh12052493039287141002_4043641661637875490Sub0">
+		<file path="door_Assets/Mesh12052493039287141002_4043641661637875490Sub0.udsmesh"/>
+		<Size a="3155.277344" x="8.89" y="243.839996" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="81f4f9b173a04a989fc088b9f1a6bf79"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh9600353732196750111_1019890162563603331Sub0" label="Mesh9600353732196750111_1019890162563603331Sub0">
+		<file path="door_Assets/Mesh9600353732196750111_1019890162563603331Sub0.udsmesh"/>
+		<Size a="1480.828979" x="8.89" y="113.029999" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b9b30b2c42148de6aa4577c5a8e0a20f"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh16663327676634549005_2898247932803566768Sub0" label="Mesh16663327676634549005_2898247932803566768Sub0">
+		<file path="door_Assets/Mesh16663327676634549005_2898247932803566768Sub0.udsmesh"/>
+		<Size a="3155.277344" x="8.89" y="243.839996" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="81f4f9b173a04a989fc088b9f1a6bf79"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh1407046160728594506_8523354050954126953Sub0" label="Mesh1407046160728594506_8523354050954126953Sub0">
+		<file path="door_Assets/Mesh1407046160728594506_8523354050954126953Sub0.udsmesh"/>
+		<Size a="1618.855225" x="8.89" y="123.813019" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="633e5186cbc4cad7a848651848814177"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh9234780486935674719_5863342230607463316Sub0" label="Mesh9234780486935674719_5863342230607463316Sub0">
+		<file path="door_Assets/Mesh9234780486935674719_5863342230607463316Sub0.udsmesh"/>
+		<Size a="7905.518555" x="1.905" y="110.290817" z="213.574203"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c27b53063412c1cdb5d18fc4fddd3c3c"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh9271393573683339792_17431470347089354614Sub0" label="Mesh9271393573683339792_17431470347089354614Sub0">
+		<file path="door_Assets/Mesh9271393573683339792_17431470347089354614Sub0.udsmesh"/>
+		<Size a="514.084595" x="30.385006" y="30.385002" z="0.47625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9fcda3315680d160f63b6c11abfdd913"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh891415499751743759_8814795488003066473Sub0" label="Mesh891415499751743759_8814795488003066473Sub0">
+		<file path="door_Assets/Mesh891415499751743759_8814795488003066473Sub0.udsmesh"/>
+		<Size a="3155.277344" x="8.89" y="243.839996" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="81f4f9b173a04a989fc088b9f1a6bf79"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh1287391102938944387_15272815506697299825Sub0" label="Mesh1287391102938944387_15272815506697299825Sub0">
+		<file path="door_Assets/Mesh1287391102938944387_15272815506697299825Sub0.udsmesh"/>
+		<Size a="1480.828979" x="8.89" y="113.029999" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b9b30b2c42148de6aa4577c5a8e0a20f"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh17749233856711303540_1456957924642762985Sub0" label="Mesh17749233856711303540_1456957924642762985Sub0">
+		<file path="door_Assets/Mesh17749233856711303540_1456957924642762985Sub0.udsmesh"/>
+		<Size a="3155.277344" x="8.89" y="243.839996" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="81f4f9b173a04a989fc088b9f1a6bf79"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh14700375406791035782_16353914345654428593Sub0" label="Mesh14700375406791035782_16353914345654428593Sub0">
+		<file path="door_Assets/Mesh14700375406791035782_16353914345654428593Sub0.udsmesh"/>
+		<Size a="1618.855225" x="8.89" y="123.813019" z="1.905"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="633e5186cbc4cad7a848651848814177"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh7537271613463246746_7022620662319066122Sub0" label="Mesh7537271613463246746_7022620662319066122Sub0">
+		<file path="door_Assets/Mesh7537271613463246746_7022620662319066122Sub0.udsmesh"/>
+		<Size a="7905.518555" x="1.905" y="110.290817" z="213.574203"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c27b53063412c1cdb5d18fc4fddd3c3c"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh7885607841536471584_2102667679300381863Sub0" label="Mesh7885607841536471584_2102667679300381863Sub0">
+		<file path="door_Assets/Mesh7885607841536471584_2102667679300381863Sub0.udsmesh"/>
+		<Size a="514.084595" x="30.385006" y="30.385002" z="0.47625"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9fcda3315680d160f63b6c11abfdd913"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh17554278748277936276_7381369646274391341Sub0" label="Mesh17554278748277936276_7381369646274391341Sub0">
+		<file path="door_Assets/Mesh17554278748277936276_7381369646274391341Sub0.udsmesh"/>
+		<Size a="148600.71875" x="91.440018" y="3.81" z="203.200012"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d0024abde3df49a1685338c8b0e4ada1"/>
+		<Material id="2" name="Material_12779777_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh13092706317950653552_6011022188074862266Sub0" label="Mesh13092706317950653552_6011022188074862266Sub0">
+		<file path="door_Assets/Mesh13092706317950653552_6011022188074862266Sub0.udsmesh"/>
+		<Size a="9.375033" x="6.350006" y="0.0" z="17.779999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1a79db1700a9f796ec4ebe73e77073d9"/>
+		<Material id="3" name="Material_0_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh16219676541791578819_2740061353361918736Sub0" label="Mesh16219676541791578819_2740061353361918736Sub0">
+		<file path="door_Assets/Mesh16219676541791578819_2740061353361918736Sub0.udsmesh"/>
+		<Size a="3.780269" x="6.350006" y="0.0" z="17.779999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0f1454d6d21cae21655dee90ea01a206"/>
+		<Material id="3" name="Material_0_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh13559935229165319104_11578809841178507252Sub0" label="Mesh13559935229165319104_11578809841178507252Sub0">
+		<file path="door_Assets/Mesh13559935229165319104_11578809841178507252Sub0.udsmesh"/>
+		<Size a="83.099274" x="5.714996" y="0.0" z="17.145"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="37f4a6b5114ea1acdc5c72b0e0c5897b"/>
+		<Material id="4" name="Material_0_18446744071135609344"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh4023839676045838141_12153247587748969169Sub0" label="Mesh4023839676045838141_12153247587748969169Sub0">
+		<file path="door_Assets/Mesh4023839676045838141_12153247587748969169Sub0.udsmesh"/>
+		<Size a="9.375033" x="6.350006" y="0.0" z="17.779999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ee764e88faedff1388dfaba018a7997e"/>
+		<Material id="3" name="Material_0_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh5635876146283405971_1729415078110326744Sub0" label="Mesh5635876146283405971_1729415078110326744Sub0">
+		<file path="door_Assets/Mesh5635876146283405971_1729415078110326744Sub0.udsmesh"/>
+		<Size a="3.780269" x="6.350006" y="0.0" z="17.779999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d9ba53635ee0aa4b91fa0827d575b3c9"/>
+		<Material id="3" name="Material_0_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh5919940371532060376_1588337892034128191Sub0" label="Mesh5919940371532060376_1588337892034128191Sub0">
+		<file path="door_Assets/Mesh5919940371532060376_1588337892034128191Sub0.udsmesh"/>
+		<Size a="83.100014" x="5.714996" y="0.0" z="17.145"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8af42409e35daf39bc6985e69d8b5420"/>
+		<Material id="4" name="Material_0_18446744071135609344"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh2573515115298137933_3323503099802554328Sub0" label="Mesh2573515115298137933_3323503099802554328Sub0">
+		<file path="door_Assets/Mesh2573515115298137933_3323503099802554328Sub0.udsmesh"/>
+		<Size a="56.323883" x="5.714996" y="4.5085" z="17.145"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d2d8ff02114385ec851bad8c1f078d88"/>
+		<Material id="3" name="Material_0_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh2573515115298137933_3323503099802554328Sub1" label="Mesh2573515115298137933_3323503099802554328Sub1">
+		<file path="door_Assets/Mesh2573515115298137933_3323503099802554328Sub1.udsmesh"/>
+		<Size a="515.591431" x="6.350006" y="4.5085" z="17.779999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ad27f804bbd5386d9181332c92623cb5"/>
+		<Material id="4" name="Material_0_18446744071135609344"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh2573515115298137933_3323503099802554328Sub2" label="Mesh2573515115298137933_3323503099802554328Sub2">
+		<file path="door_Assets/Mesh2573515115298137933_3323503099802554328Sub2.udsmesh"/>
+		<Size a="7.323894" x="0.63501" y="4.5085" z="1.904999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c046de9e632a7575ba8ad479bb0e42a6"/>
+		<Material id="5" name="Material_0_18446744073709551360"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh2573515115298137933_3323503099802554328Sub3" label="Mesh2573515115298137933_3323503099802554328Sub3">
+		<file path="door_Assets/Mesh2573515115298137933_3323503099802554328Sub3.udsmesh"/>
+		<Size a="459.427948" x="5.448303" y="13.398499" z="5.448303"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1fa610d0d3f69f852f4cd1f2d6ffb923"/>
+		<Material id="6" name="Material_0_18446744071722011648"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh13123458765543059636_16138606742511258533Sub0" label="Mesh13123458765543059636_16138606742511258533Sub0">
+		<file path="door_Assets/Mesh13123458765543059636_16138606742511258533Sub0.udsmesh"/>
+		<Size a="7619.802246" x="86.360016" y="0.635" z="15.24"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0cf08ee4315617d001592095f31905ce"/>
+		<Material id="7" name="Material_1245441_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh15612336721590679037_1660929198374095672Sub0" label="Mesh15612336721590679037_1660929198374095672Sub0">
+		<file path="door_Assets/Mesh15612336721590679037_1660929198374095672Sub0.udsmesh"/>
+		<Size a="362.674561" x="1.905" y="20.32" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="97acad56526c470e326f2e90b3324e60"/>
+		<Material id="8" name="Material_13172993_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh5623778768392018900_5437461147399403851Sub0" label="Mesh5623778768392018900_5437461147399403851Sub0">
+		<file path="door_Assets/Mesh5623778768392018900_5437461147399403851Sub0.udsmesh"/>
+		<Size a="362.674561" x="1.905" y="20.32" z="8.89"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="97acad56526c470e326f2e90b3324e60"/>
+		<Material id="8" name="Material_13172993_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh8606609160342850020_18439877975917088542Sub0" label="Mesh8606609160342850020_18439877975917088542Sub0">
+		<file path="door_Assets/Mesh8606609160342850020_18439877975917088542Sub0.udsmesh"/>
+		<Size a="70587.59375" x="109.291077" y="1.905" z="193.648376"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a1a481b5d6bf30b2f63369b28c7597ea"/>
+		<Material id="8" name="Material_13172993_18446744069414584320"/>
+	</StaticMesh>
+	<StaticMesh name="Mesh3152482014867268913_16858404671019420505Sub0" label="Mesh3152482014867268913_16858404671019420505Sub0">
+		<file path="door_Assets/Mesh3152482014867268913_16858404671019420505Sub0.udsmesh"/>
+		<Size a="14456.248047" x="93.480988" y="4.445" z="203.834991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cec45970834702a539e59acb9cd2331a"/>
+		<Material id="0" name="Material_1179905_18446744069414584320"/>
+	</StaticMesh>
+	<Actor name="door_2" label="door_2">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000080000000000000803F"/>
+		<tag value="Empty Actor" />
+		<children visible="true"  selector="false" selection="-1">
+			<Actor name="Solid_Addition_54" label="Solid_Addition_54">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance3140279708681393836_6415201379461070764" label="Solid_Addition_50">
+						<mesh name="Mesh3152482014867268913_16858404671019420505Sub0"/>
+						<Transform tx="244.097626" ty="2.2225" tz="99.941353" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_Along_Path_53" label="Extrude_Along_Path_53">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance8576855352655119021_5621289247706392499" label="Extrude_Along_Path_49">
+						<mesh name="Mesh8606609160342850020_18439877975917088542Sub0"/>
+						<Transform tx="234.454315" ty="10.288054" tz="117.778877" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_52" label="Extrude_52">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance5639952797231125643_15853499325414953491" label="Extrude_48">
+						<mesh name="Mesh5623778768392018900_5437461147399403851Sub0"/>
+						<Transform tx="285.283478" ty="10.820153" tz="-11.004331" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFFFFFF3EFEFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_51" label="Extrude_51">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance15596688870170271147_11531331080412646008" label="Extrude_47">
+						<mesh name="Mesh15612336721590679037_1660929198374095672Sub0"/>
+						<Transform tx="183.784256" ty="10.820153" tz="-11.004331" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFFFFFF3EFEFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Solid_Addition_50" label="Solid_Addition_50">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance13162200106331532945_5912833263172329487" label="Solid_Addition_46">
+						<mesh name="Mesh13123458765543059636_16138606742511258533Sub0"/>
+						<Transform tx="234.307266" ty="9.410899" tz="-11.951797" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Mesh_Layer0_49" label="Mesh_Layer0_49">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance2564141410555135106_12683329553454529192" label="Mesh_Layer0_45">
+						<mesh name="Mesh2573515115298137933_3323503099802554328Sub0"/>
+						<Transform tx="274.839478" ty="6.993202" tz="61.277702" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+					<ActorMesh name="Instance2564141410555135106_12683329553454529192_Sub1" label="Mesh_Layer0_45">
+						<mesh name="Mesh2573515115298137933_3323503099802554328Sub1"/>
+						<Transform tx="274.839478" ty="6.993202" tz="61.954006" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+					<ActorMesh name="Instance2564141410555135106_12683329553454529192_Sub2" label="Mesh_Layer0_45">
+						<mesh name="Mesh2573515115298137933_3323503099802554328Sub2"/>
+						<Transform tx="274.839478" ty="6.993202" tz="59.252453" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+					<ActorMesh name="Instance2564141410555135106_12683329553454529192_Sub3" label="Mesh_Layer0_45">
+						<mesh name="Mesh2573515115298137933_3323503099802554328Sub3"/>
+						<Transform tx="274.840576" ty="6.973328" tz="64.430511" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="3D_Polygon_Layer0_48" label="3D_Polygon_Layer0_48">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance5941767366370835886_11819028765200047592" label="3D_Polygon_Layer0_44">
+						<mesh name="Mesh5919940371532060376_1588337892034128191Sub0"/>
+						<Transform tx="274.863556" ty="2.385193" tz="61.791409" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="3D_Polygon_Layer0_47" label="3D_Polygon_Layer0_47">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance5654293081633255849_12467748002991910781" label="3D_Polygon_Layer0_43">
+						<mesh name="Mesh5635876146283405971_1729415078110326744Sub0"/>
+						<Transform tx="274.522003" ty="2.734443" tz="62.8778" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="3D_Polygon_Layer0_46" label="3D_Polygon_Layer0_46">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance4026401176360340156_579351644922573999" label="3D_Polygon_Layer0_42">
+						<mesh name="Mesh4023839676045838141_12153247587748969169Sub0"/>
+						<Transform tx="275.192261" ty="2.702693" tz="60.937523" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="3D_Polygon_Layer0_45" label="3D_Polygon_Layer0_45">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance13588144048928237229_1227922553208990228" label="3D_Polygon_Layer0_41">
+						<mesh name="Mesh13559935229165319104_11578809841178507252Sub0"/>
+						<Transform tx="274.815399" ty="6.893693" tz="61.791409" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="3D_Polygon_Layer0_44" label="3D_Polygon_Layer0_44">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance16282449933730422422_12394447048699346022" label="3D_Polygon_Layer0_40">
+						<mesh name="Mesh16219676541791578819_2740061353361918736Sub0"/>
+						<Transform tx="275.156982" ty="6.544443" tz="62.8778" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="3D_Polygon_Layer0_43" label="3D_Polygon_Layer0_43">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance13044516457777151621_14558509964954547332" label="3D_Polygon_Layer0_39">
+						<mesh name="Mesh13092706317950653552_6011022188074862266Sub0"/>
+						<Transform tx="274.486725" ty="6.576193" tz="60.937523" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Solid_Subtraction_42" label="Solid_Subtraction_42">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance17541229757374521535_14195812711453238148" label="Solid_Subtraction_38">
+						<mesh name="Mesh17554278748277936276_7381369646274391341Sub0"/>
+						<Transform tx="234.835098" ty="7.98165" tz="70.683586" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Group_Layer0_35" label="Group_Layer0_35">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<Actor name="Extrude_Layer0_41" label="Extrude_Layer0_41">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Empty Actor" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="Instance7855078019300910968_11315410027281425162" label="Extrude_Layer0_37">
+								<mesh name="Mesh7885607841536471584_2102667679300381863Sub0"/>
+								<Transform tx="182.472931" ty="-10.128335" tz="-14.304997" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFFFFFF3EFEFFFFBEFDFFFF3E"/>
+								<tag value="Mesh Actor" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Solid_Subtraction_Layer0_40" label="Solid_Subtraction_Layer0_40">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Empty Actor" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="Instance7562017364069938006_14916222519765215918" label="Solid_Subtraction_Layer0_36">
+								<mesh name="Mesh7537271613463246746_7022620662319066122Sub0"/>
+								<Transform tx="179.377304" ty="-54.549057" tz="79.415001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="Mesh Actor" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Extrude_Layer0_39" label="Extrude_Layer0_39">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Empty Actor" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="Instance14757852232000760403_5262048229217309739" label="Extrude_Layer0_35">
+								<mesh name="Mesh14700375406791035782_16353914345654428593Sub0"/>
+								<Transform tx="177.78981" ty="-61.906509" tz="-23.480833" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="1.0" qw="-0.0" qhex="0000000000000000FEFF7F3F000000B4"/>
+								<tag value="Mesh Actor" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Extrude_Layer0_38" label="Extrude_Layer0_38">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Empty Actor" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="Instance17773401387577027169_10164173444191976093" label="Extrude_Layer0_34">
+								<mesh name="Mesh17749233856711303540_1456957924642762985Sub0"/>
+								<Transform tx="177.78981" ty="-0.9525" tz="99.391663" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="-0.707107" qz="0.707107" qw="-0.0" qhex="F304B533F20435BFF104353FF204B5B3"/>
+								<tag value="Mesh Actor" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Extrude_Layer0_37" label="Extrude_Layer0_37">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Empty Actor" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="Instance1282659489437734506_4686476440702893378" label="Extrude_Layer0_33">
+								<mesh name="Mesh1287391102938944387_15272815506697299825Sub0"/>
+								<Transform tx="181.282303" ty="-67.310005" tz="-18.083334" sx="1.0" sy="1.0" sz="1.0" qx="0.707107" qy="0.0" qz="0.707107" qw="-0.0" qhex="F204353FF304B533F104353FF204B5B3"/>
+								<tag value="Mesh Actor" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Extrude_Layer0_36" label="Extrude_Layer0_36">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Empty Actor" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="Instance887833757246413161_16934724207509375852" label="Extrude_Layer0_32">
+								<mesh name="Mesh891415499751743759_8814795488003066473Sub0"/>
+								<Transform tx="181.282303" ty="-6.35" tz="99.391663" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFFFFFF3EFEFFFFBEFDFFFF3E"/>
+								<tag value="Mesh Actor" />
+							</ActorMesh>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="Group_Layer0_28" label="Group_Layer0_28">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<Actor name="Extrude_Layer0_34" label="Extrude_Layer0_34">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Empty Actor" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="Instance9235342650382171916_5347532675772180804" label="Extrude_Layer0_31">
+								<mesh name="Mesh9271393573683339792_17431470347089354614Sub0"/>
+								<Transform tx="295.09967" ty="-10.128335" tz="-14.304997" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFFFFFF3EFEFFFFBEFDFFFF3E"/>
+								<tag value="Mesh Actor" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Solid_Subtraction_Layer0_33" label="Solid_Subtraction_Layer0_33">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Empty Actor" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="Instance9270687398344288533_17525913197687487093" label="Solid_Subtraction_Layer0_30">
+								<mesh name="Mesh9234780486935674719_5863342230607463316Sub0"/>
+								<Transform tx="292.004059" ty="-54.549057" tz="79.415001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="Mesh Actor" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Extrude_Layer0_32" label="Extrude_Layer0_32">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Empty Actor" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="Instance1411164445141254185_16732084385388877669" label="Extrude_Layer0_29">
+								<mesh name="Mesh1407046160728594506_8523354050954126953Sub0"/>
+								<Transform tx="290.416565" ty="-61.906509" tz="-23.480833" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="1.0" qw="-0.0" qhex="0000000000000000FEFF7F3F000000B4"/>
+								<tag value="Mesh Actor" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Extrude_Layer0_31" label="Extrude_Layer0_31">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Empty Actor" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="Instance16692479056275646470_11039697968088875370" label="Extrude_Layer0_28">
+								<mesh name="Mesh16663327676634549005_2898247932803566768Sub0"/>
+								<Transform tx="290.416565" ty="-0.9525" tz="99.391663" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="-0.707107" qz="0.707107" qw="-0.0" qhex="F304B533F20435BFF104353FF204B5B3"/>
+								<tag value="Mesh Actor" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Extrude_Layer0_30" label="Extrude_Layer0_30">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Empty Actor" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="Instance9637359038132257599_9670397843763309427" label="Extrude_Layer0_27">
+								<mesh name="Mesh9600353732196750111_1019890162563603331Sub0"/>
+								<Transform tx="293.909058" ty="-67.310005" tz="-18.083334" sx="1.0" sy="1.0" sz="1.0" qx="0.707107" qy="0.0" qz="0.707107" qw="-0.0" qhex="F204353FF304B533F104353FF204B5B3"/>
+								<tag value="Mesh Actor" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="Extrude_Layer0_29" label="Extrude_Layer0_29">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Empty Actor" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="Instance12098037167000820275_13561641420967678057" label="Extrude_Layer0_26">
+								<mesh name="Mesh12052493039287141002_4043641661637875490Sub0"/>
+								<Transform tx="293.909058" ty="-6.35" tz="99.391663" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFFFFFF3EFEFFFFBEFDFFFF3E"/>
+								<tag value="Mesh Actor" />
+							</ActorMesh>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="Solid_Subtraction_27" label="Solid_Subtraction_27">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance8472403069553330109_13622345057931157947" label="Solid_Subtraction_25">
+						<mesh name="Mesh8494170724026859953_2024943773854794448Sub0"/>
+						<Transform tx="234.421631" ty="9.128125" tz="96.120674" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_26" label="Extrude_26">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance15319968880232473749_11028768036909111354" label="Extrude_24">
+						<mesh name="Mesh15298489353325924090_1169895051388016104Sub0"/>
+						<Transform tx="180.714691" ty="4.445" tz="-3.634965" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_25" label="Extrude_25">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance487616634875822486_3307486041513916" label="Extrude_23">
+						<mesh name="Mesh487041942557145116_9989132043753107113Sub0"/>
+						<Transform tx="180.714691" ty="4.445" tz="27.748507" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_24" label="Extrude_24">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance16135400772447493055_7929041560725964645" label="Extrude_22">
+						<mesh name="Mesh16083289972110799279_14829466920329481640Sub0"/>
+						<Transform tx="180.714691" ty="4.445" tz="59.131977" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_23" label="Extrude_23">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance10718465476657975465_9512920838215489425" label="Extrude_21">
+						<mesh name="Mesh10676863594155232754_3543179491781427916Sub0"/>
+						<Transform tx="180.714691" ty="4.445" tz="90.51545" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_22" label="Extrude_22">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance1914405260515802273_16217360111503059469" label="Extrude_20">
+						<mesh name="Mesh1912638782361990038_6648968868565498669Sub0"/>
+						<Transform tx="180.714691" ty="4.445" tz="121.898918" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_21" label="Extrude_21">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance15707912163399491991_15927592640901070476" label="Extrude_19">
+						<mesh name="Mesh15646773560313722557_6231973065628622264Sub0"/>
+						<Transform tx="180.714691" ty="4.445" tz="153.282394" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_20" label="Extrude_20">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance7682795926545538185_17226086098174828270" label="Extrude_18">
+						<mesh name="Mesh7706945408773828062_8812163607052776506Sub0"/>
+						<Transform tx="180.714691" ty="4.445" tz="184.665863" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_19" label="Extrude_19">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance1255022399284597176_7496721751513623904" label="Extrude_17">
+						<mesh name="Mesh1259631820588938274_14756871344427314951Sub0"/>
+						<Transform tx="180.714691" ty="4.445" tz="216.049332" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_18" label="Extrude_18">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance16398998314770970542_8362048852349438985" label="Extrude_16">
+						<mesh name="Mesh16390758572058128722_14327271584634415055Sub0"/>
+						<Transform tx="288.040924" ty="4.445" tz="-3.634965" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_17" label="Extrude_17">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance9155198959549964950_13621133618632431049" label="Extrude_15">
+						<mesh name="Mesh9183415564334383935_3968153304884513238Sub0"/>
+						<Transform tx="288.040924" ty="4.445" tz="27.748507" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_16" label="Extrude_16">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance5945834675228620728_73485859097297452" label="Extrude_14">
+						<mesh name="Mesh5967709353568118212_11938860790435408868Sub0"/>
+						<Transform tx="288.040924" ty="4.445" tz="59.131977" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_15" label="Extrude_15">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance6154847152533298104_16793783616679385271" label="Extrude_13">
+						<mesh name="Mesh6142848844409759784_5570323777986347045Sub0"/>
+						<Transform tx="288.040924" ty="4.445" tz="90.51545" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_14" label="Extrude_14">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance4787479748288390326_10232788609059711532" label="Extrude_12">
+						<mesh name="Mesh4769928893738294873_2605161282775706444Sub0"/>
+						<Transform tx="288.040924" ty="4.445" tz="121.898918" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_13" label="Extrude_13">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance3756315263454037918_14703960971473308183" label="Extrude_11">
+						<mesh name="Mesh3753177696863610898_5650246360079810135Sub0"/>
+						<Transform tx="288.040924" ty="4.445" tz="153.282394" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_12" label="Extrude_12">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance13664707926388305049_16649053360572167839" label="Extrude_10">
+						<mesh name="Mesh13627790544535591870_7079959659450609763Sub0"/>
+						<Transform tx="288.040924" ty="4.445" tz="184.665863" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_11" label="Extrude_11">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance13763681535548878772_9299826210044204745" label="Extrude_9">
+						<mesh name="Mesh13816379513823571984_2965018352750686229Sub0"/>
+						<Transform tx="288.040924" ty="4.445" tz="216.049332" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_10" label="Extrude_10">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance9705502145440982934_5694144999950833337" label="Extrude_8">
+						<mesh name="Mesh9671098583146122106_14258926731211005925Sub0"/>
+						<Transform tx="234.377808" ty="4.445" tz="216.010651" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_9" label="Extrude_9">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance3713815255969441194_8146763767684738013" label="Extrude_7">
+						<mesh name="Mesh3727115314059606084_14399516722107703164Sub0"/>
+						<Transform tx="234.377808" ty="4.445" tz="182.665771" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_8" label="Extrude_8">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance10259270920661408387_13478731514708505018" label="Extrude_6">
+						<mesh name="Mesh10299426932019544018_2602607501082167809Sub0"/>
+						<Transform tx="187.059067" ty="4.445" tz="112.619987" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000000F204353F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_7" label="Extrude_7">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance15787691162755611021_3102878909173930414" label="Extrude_5">
+						<mesh name="Mesh15835490411119183743_13443210807188352829Sub0"/>
+						<Transform tx="281.696533" ty="4.445" tz="112.619987" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000000F204353F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_6" label="Extrude_6">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance17870800455199232689_17006232185541235032" label="Extrude_4">
+						<mesh name="Mesh17940402959610001768_4703175386790574787Sub0"/>
+						<Transform tx="234.377808" ty="4.445" tz="248.827484" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_5" label="Extrude_5">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance8697730248326604965_12179025002082257945" label="Extrude_3">
+						<mesh name="Mesh8704602578825995270_1154856024668721503Sub0"/>
+						<Transform tx="234.377808" ty="4.445" tz="-23.587509" sx="1.0" sy="1.0" sz="1.0" qx="-0.5" qy="-0.5" qz="-0.5" qw="0.5" qhex="FEFFFFBEFEFFFFBEFFFFFFBEFDFFFF3E"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_4" label="Extrude_4">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance8096003649246353315_6416282713423879413" label="Extrude_2">
+						<mesh name="Mesh8082369609594596927_16643458530878434147Sub0"/>
+						<Transform tx="294.385315" ty="4.445" tz="112.619987" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000000F204353F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Extrude_3" label="Extrude_3">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Empty Actor" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="Instance4473837388092215705_13114696292036713297" label="Extrude_1">
+						<mesh name="Mesh4479005577213421891_3683257606469897152Sub0"/>
+						<Transform tx="174.3703" ty="4.445" tz="112.619987" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F30435BF0000000000000000F204353F"/>
+						<tag value="Mesh Actor" />
+					</ActorMesh>
+				</children>
+			</Actor>
+		</children>
+	</Actor>
+	<Texture name="Material_1179905_18446744069414584320_diffuse" label="Material_1179905_18446744069414584320_diffuse" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="0" file="door_Assets/Material_1179905_18446744069414584320_diffuse.png">
+		<Hash value=""/>
+	</Texture>
+	<Texture name="Material_13041921_18446744069414584320_diffuse" label="Material_13041921_18446744069414584320_diffuse" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="0" file="door_Assets/Material_13041921_18446744069414584320_diffuse.png">
+		<Hash value=""/>
+	</Texture>
+	<Texture name="Material_12779777_18446744069414584320_diffuse" label="Material_12779777_18446744069414584320_diffuse" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="0" file="door_Assets/Material_12779777_18446744069414584320_diffuse.png">
+		<Hash value=""/>
+	</Texture>
+	<Texture name="Material_1245441_18446744069414584320_diffuse" label="Material_1245441_18446744069414584320_diffuse" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="0" file="door_Assets/Material_1245441_18446744069414584320_diffuse.png">
+		<Hash value=""/>
+	</Texture>
+	<UEPbrMaterial name="Material_1179905_18446744069414584320" label="Wood_Board_Pine_Clear_RT">
+		<Expressions>
+			<Texture Name="Material_1179905_18446744069414584320_diffuse" PathName="Material_1179905_18446744069414584320_diffuse">
+			</Texture>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_13041921_18446744069414584320" label="Paint_Almond_RT">
+		<Expressions>
+			<Scalar Name="" constant="0.0"/>
+			<Scalar Name="" constant="0.0"/>
+			<Scalar Name="" constant="0.5"/>
+			<Texture Name="Material_13041921_18446744069414584320_diffuse" PathName="Material_13041921_18446744069414584320_diffuse">
+			</Texture>
+		</Expressions>
+		<Input Name="BaseColor" expression="3" OutputIndex="0"/>
+		<Input Name="Metallic" expression="0" OutputIndex="0"/>
+		<Input Name="Roughness" expression="1" OutputIndex="0"/>
+		<Input Name="Specular" expression="2" OutputIndex="0"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_12779777_18446744069414584320" label="Wood_Arcitex_Cherry_07_RT">
+		<Expressions>
+			<Texture Name="Material_12779777_18446744069414584320_diffuse" PathName="Material_12779777_18446744069414584320_diffuse">
+			</Texture>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_0_18446744069414584320" label="RGBA_255_255_255_255">
+		<Expressions>
+			<Color Name="RGB_Color" constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_0_18446744071135609344" label="RGBA_153_107_61_255">
+		<Expressions>
+			<Color Name="RGB_Color" constant="(R=0.325037,G=0.147998,B=0.042987,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_0_18446744073709551360" label="RGBA_0_0_0_255">
+		<Expressions>
+			<Color Name="RGB_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_0_18446744071722011648" label="RGBA_118_119_115_255">
+		<Expressions>
+			<Color Name="RGB_Color" constant="(R=0.183549,G=0.186989,B=0.173439,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_1245441_18446744069414584320" label="Metal_Gold_Polished_RT">
+		<Expressions>
+			<Scalar Name="" constant="0.85"/>
+			<Scalar Name="" constant="0.12"/>
+			<Scalar Name="" constant="0.5"/>
+			<Texture Name="Material_1245441_18446744069414584320_diffuse" PathName="Material_1245441_18446744069414584320_diffuse">
+			</Texture>
+		</Expressions>
+		<Input Name="BaseColor" expression="3" OutputIndex="0"/>
+		<Input Name="Metallic" expression="0" OutputIndex="0"/>
+		<Input Name="Roughness" expression="1" OutputIndex="0"/>
+		<Input Name="Specular" expression="2" OutputIndex="0"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_13172993_18446744069414584320" label="Gloss_White__MDF__Finish_RT">
+		<Expressions>
+			<Color Name="RGB_Color" constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar Name="" constant="0.0"/>
+			<Scalar Name="" constant="0.0"/>
+			<Scalar Name="" constant="0.5"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="1" OutputIndex="0"/>
+		<Input Name="Roughness" expression="2" OutputIndex="0"/>
+		<Input Name="Specular" expression="3" OutputIndex="0"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
