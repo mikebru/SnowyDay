@@ -7,6 +7,26 @@
 		{
 			"Name": "DatasmithImporter",
 			"Enabled": true
+		},
+		{
+			"Name": "MediaFrameworkUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "MediaIOFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "NDIIOPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "OWLLivestreamingCamera",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/92307b570d474fbc87592b973ce82e3b",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
